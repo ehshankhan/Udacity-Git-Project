@@ -1,1 +1,1 @@
-ECHO is on.
+Completed get_filter and load_data function.
